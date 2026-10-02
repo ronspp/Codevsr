@@ -80,3 +80,4 @@ Contenedor del 83.33 %, máximo 1120 px; fondo blanco; acento `#fa2d70`; fuente 
 
 Banner de capítulos eliminado; logo Mangation; cierre de diálogos al seguir un enlace; navegación móvil con biblioteca, historial, favoritos y perfil local; lector con áreas seguras, controles de 44 px y remount por capítulo. Configuración `allowedDevOrigins` para la IP local 192.168.100.72. Plan de autenticación en `AUTH-PLAN.md`. Se requiere verificar los cambios en el Safari físico del usuario.
 # Codevrs
+# Codevsr
